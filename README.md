@@ -1,0 +1,1 @@
+# Lazar_Catinca_ActivitateSD2026
