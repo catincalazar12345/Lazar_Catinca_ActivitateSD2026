@@ -1,0 +1,5 @@
+﻿  seminar05.c
+C:\Users\catin\source\repos\Lazar_Catinca_ActivitateSD2026\seminar05\seminar05\seminar05.c(38,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\catin\source\repos\Lazar_Catinca_ActivitateSD2026\seminar05\seminar05\seminar05.c(127,3): warning C4013: 'fee' undefined; assuming extern returning int
+C:\Users\catin\source\repos\Lazar_Catinca_ActivitateSD2026\seminar05\seminar05\seminar05.c(115,1): warning C4715: 'citireLDMasiniDinFisier': not all control paths return a value
+C:\Users\catin\source\repos\Lazar_Catinca_ActivitateSD2026\seminar05\seminar05\seminar05.c(138,1): error C4700: uninitialized local variable 'nr' used
