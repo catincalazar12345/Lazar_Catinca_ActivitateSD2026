@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\catin\source\repos\Lazar_Catinca_ActivitateSD2026\recap-test\recap-test\Source.c(34,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\catin\source\repos\Lazar_Catinca_ActivitateSD2026\recap-test\recap-test\Source.c(102,1): warning C4716: 'citireListaMasiniDinFisier': must return a value
+  recap-test.vcxproj -> C:\Users\catin\source\repos\Lazar_Catinca_ActivitateSD2026\recap-test\x64\Debug\recap-test.exe

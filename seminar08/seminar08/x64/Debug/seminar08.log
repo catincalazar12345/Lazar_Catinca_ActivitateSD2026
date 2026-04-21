@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\catin\source\repos\Lazar_Catinca_ActivitateSD2026\seminar08\seminar08\Source.c(37,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  seminar08.vcxproj -> C:\Users\catin\source\repos\Lazar_Catinca_ActivitateSD2026\seminar08\x64\Debug\seminar08.exe
