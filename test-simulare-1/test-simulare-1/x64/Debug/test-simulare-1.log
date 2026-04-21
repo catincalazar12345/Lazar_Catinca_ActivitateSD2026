@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\catin\source\repos\Lazar_Catinca_ActivitateSD2026\test-simulare-1\test-simulare-1\Source.c(47,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\catin\source\repos\Lazar_Catinca_ActivitateSD2026\test-simulare-1\test-simulare-1\Source.c(159,30): warning C4018: '>': signed/unsigned mismatch
+  test-simulare-1.vcxproj -> C:\Users\catin\source\repos\Lazar_Catinca_ActivitateSD2026\test-simulare-1\x64\Debug\test-simulare-1.exe

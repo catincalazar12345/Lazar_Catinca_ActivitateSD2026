@@ -1,0 +1,10 @@
+2,Crima si pedeapsa,Dostoievski,23,500
+3,Decameronul,Bocaccio,50,120
+4,Strainul,Albert Camus,15,123
+5,Procesul,Franz Kafka,18,240
+6,Un veac de singuratate,Gabriel Garcia Marquez,30,450
+7,Mandra si prejudecata,George Orwell,12,380
+8,1984,George Orwell,20,320
+9,Portretul lui Dorian Gray,Oscar Wilde,14,250
+10,Zbor deasupra unui cuib de cuci,Ken Kesey,22,310
+11,In cautarea timpului pierdut,George Orwell,45,1200
