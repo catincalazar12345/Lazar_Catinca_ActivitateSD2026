@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\catin\source\repos\Lazar_Catinca_ActivitateSD2026\simulare-test-2\simulare-test-2\Source.c(66,17): warning C4033: 'dequeue' must return a value
+C:\Users\catin\source\repos\Lazar_Catinca_ActivitateSD2026\simulare-test-2\simulare-test-2\Source.c(87,1): warning C4715: 'dequeue': not all control paths return a value
+  simulare-test-2.vcxproj -> C:\Users\catin\source\repos\Lazar_Catinca_ActivitateSD2026\simulare-test-2\x64\Debug\simulare-test-2.exe
