@@ -1,0 +1,10 @@
+101,3,electronice;it;periferice,Logitech,250.00,10
+102,2,home;deco,IKEA,450.75,5
+103,4,beauty;cosmetice;bio;vegan,Sephora,120.00,15
+104,1,fashion,Zara,89.90,0
+105,3,sport;outdoor;echipament,Decathlon,310.00,20
+106,2,food;bio,Lidl,25.50,0
+107,3,gradina;unelte;constructii,Dedeman,1200.00,12
+108,2,jucarii;copii,Noriel,150.00,30
+109,5,auto;ulei;filtre;accesorii;intretinere,Emag,540.00,10
+110,2,it;gaming,PC_Garage,4200.00,5

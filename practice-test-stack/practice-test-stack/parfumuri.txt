@@ -1,0 +1,10 @@
+Sauvage,450.50,100,2015
+Chanel_No_5,620.00,50,1921
+Aventus,1250.00,100,2010
+Libre,380.00,30,2019
+Terre_d_Hermes,410.25,75,2006
+Black_Opium,290.00,50,2014
+Acqua_di_Gio,340.00,100,1996
+Interdit,425.50,80,2018
+Eros,310.00,200,2012
+Baccarat_Rouge,1550.00,70,2015
