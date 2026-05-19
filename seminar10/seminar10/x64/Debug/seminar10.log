@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\catin\source\repos\Lazar_Catinca_ActivitateSD2026\seminar10\seminar10\Source.c(34,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\catin\source\repos\Lazar_Catinca_ActivitateSD2026\seminar10\seminar10\Source.c(69,7): warning C4047: 'initializing': 'Nod *' differs in levels of indirection from 'Nod **'
+  seminar10.vcxproj -> C:\Users\catin\source\repos\Lazar_Catinca_ActivitateSD2026\seminar10\x64\Debug\seminar10.exe
